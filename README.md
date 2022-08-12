@@ -1,11 +1,7 @@
-- Olá Mundo eu sou Fillipe
+<h1 align="center">Olá, tudo bem? Eu sou Fillipe Albuquerque🙋‍♂️</h1>
 - 🔭 Atualmente estou cursando... Análise e desenvolvimento de sistemas na faculdade SENAC
 - 🌱 Atualmente estou aprendendo ... HTML/CSS/JAVA/WORDPRESS
-- 👯 Estou procurando colaborar em ...Java
-- 🤔 Estou procurando ajuda com ...
-- 💬 Pergunte-me sobre ...
 - 📫 Como entrar em contato comigo: ... fillipefff@gmail.com
-- 😄 Pronomes: ... Ele
 - ⚡ Curiosidade: ... Gosto muito de Games
 
 <div align="center">
