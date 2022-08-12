@@ -1,9 +1,4 @@
 <h1 align="center">Olá, tudo bem? Eu sou Fillipe Albuquerque🙋‍♂️</h1>
-- 🔭 Atualmente estou cursando... Análise e desenvolvimento de sistemas na faculdade SENAC
-- 🌱 Atualmente estou aprendendo ... HTML/CSS/JAVA/WORDPRESS
-- 📫 Como entrar em contato comigo: ... fillipefff@gmail.com
-- ⚡ Curiosidade: ... Gosto muito de Games
-
 <div align="center">
   <a href="https://github.com/Fillipe-Albuquerque-Moreira-Dos-Santos/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fillipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
