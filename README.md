@@ -6,7 +6,7 @@
 - 💬 Pergunte-me sobre ...
 - 📫 Como entrar em contato comigo: ... fillipefff@gmail.com
 - 😄 Pronomes: ... Ele
-- ⚡ Curiosidade: ... 
+- ⚡ Curiosidade: ... Gosto muito de Games
 
 <div align="center">
   <a href="https://github.com/Fillipe-Albuquerque-Moreira-Dos-Santos/">
