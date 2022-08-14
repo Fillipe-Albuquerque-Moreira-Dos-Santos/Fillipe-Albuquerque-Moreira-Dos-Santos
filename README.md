@@ -1,8 +1,8 @@
 <h1 align="center">Olá, tudo bem? Eu sou Fillipe Albuquerque🙋‍♂️</h1>
 <div align="center">
   <a href="https://github.com/Fillipe-Albuquerque-Moreira-Dos-Santos/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fillipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fILLIPE&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fillipe-Albuquerque-Moreira-Dos-Santos&theme=vision-friendly-dark&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fILLIPE&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
   <br>
 
