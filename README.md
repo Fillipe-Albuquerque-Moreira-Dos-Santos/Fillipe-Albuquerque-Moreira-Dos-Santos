@@ -3,7 +3,6 @@
   <a href="https://github.com/Fillipe-Albuquerque-Moreira-Dos-Santos/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fillipe-Albuquerque-Moreira-Dos-Santos&theme=vision-friendly-dark&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fILLIPE&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra"/>
 </div>
   <br>
 
@@ -22,6 +21,12 @@
 <div> 
  
   <a href = "mailto:fillipefff@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = ""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href = ""><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+   <a href = ""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+
+
  
   ![Snake animation](https://github.com/Fillipe-Albuquerque-Moreira-Dos-Santos/Fillipe-Albuquerque-Moreira-Dos-Santos/blob/output/github-contribution-grid-snake.svg)
  
