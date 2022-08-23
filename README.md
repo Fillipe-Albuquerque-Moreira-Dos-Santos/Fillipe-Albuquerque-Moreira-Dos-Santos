@@ -1,4 +1,7 @@
 <h1 align="center">Olá, tudo bem? Eu sou Fillipe Albuquerque🙋‍♂️</h1>
+
+<p>Sou esdutante em ADS pela faculdade SENAC e atualmente estou me aprofundando no que é essencial para ser um bom Desenvolvedor.</p>
+
 <div align="center">
   <a href="https://github.com/Fillipe-Albuquerque-Moreira-Dos-Santos/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fillipe-Albuquerque-Moreira-Dos-Santos&theme=vision-friendly-dark&show_icons=true"/>
