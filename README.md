@@ -2,11 +2,6 @@
 
 <p align="center">Sou estudante de ADS pela faculdade SENAC e atualmente estou me aprofundando no que é essencial para ser um bom Desenvolvedor.</p>
 
-<div align="center">
-  <a href="https://github.com/Fillipe-Albuquerque-Moreira-Dos-Santos/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fillipe-Albuquerque-Moreira-Dos-Santos&theme=vision-friendly-dark&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fILLIPE&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-</div>
   <br>
 
   <a href="https://github.com/Fillipe-Albuquerque-Moreira-Dos-Santos/">
