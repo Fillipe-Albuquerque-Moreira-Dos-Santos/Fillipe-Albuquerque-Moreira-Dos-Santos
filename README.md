@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou Fillipe Albuquerque🙋‍♂️</h1>
 
-<p align="center">Eu sou um estudante de Análise e Desenvolvimento de Sistemas na Faculdade SENAC. Atualmente, estou me dedicando a aprimorar minhas habilidades para me tornar um desenvolvedor de qualidade.</p>
+<p align="center">Eu sou graduado em Análise e Desenvolvimento de Sistemas na Faculdade SENAC. Atualmente, estou me dedicando a aprimorar minhas habilidades para me tornar um desenvolvedor de qualidade.</p>
 
   <br>
 
