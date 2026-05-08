@@ -1,11 +1,10 @@
 <h1 align="center">Olá, eu sou Fillipe Albuquerque 🙋‍♂️</h1>
 
 <p align="center">
-  Graduado em Análise e Desenvolvimento de Sistemas pela Faculdade SENAC.<br>
   Desenvolvedor Full Stack com foco em Java, Spring Boot, Angular e Arquitetura de Software.
 </p>
 
----
+<br>
 
 <h2 align="center">🛠️ Tecnologias & Ferramentas</h2>
 
@@ -27,7 +26,7 @@
 
 </div>
 
----
+<br>
 
 <h2 align="center">📫 Onde me encontrar</h2>
 
@@ -47,7 +46,7 @@
 
 </div>
 
----
+<br>
 
 <h2 align="center">📊 Estatísticas do GitHub</h2>
 
@@ -59,7 +58,7 @@
 
 </div>
 
----
+<br>
 
 <div align="center">
 
